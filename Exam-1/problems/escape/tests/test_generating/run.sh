@@ -1,0 +1,1 @@
+./testgen wall.$1.in; ./author < wall.$1.in > wall.$1.out;
