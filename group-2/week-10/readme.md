@@ -1,0 +1,1 @@
+[USACO Guide - MST](https://usaco.guide/gold/mst?lang=cpp)
