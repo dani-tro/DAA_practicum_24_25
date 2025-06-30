@@ -1,0 +1,3 @@
+divseq
+colors
+square
